@@ -1,0 +1,6 @@
+{
+  "name": "Inua Jamii Megawholers Store",
+  "description": "Kenyan online wholesale and retail store for food, groceries, cooking oil, cereals, household and personal essentials with WhatsApp ordering and instant bulk quotes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
